@@ -16,7 +16,7 @@ Includes multi-source ingestion, NLP-based PII extraction, anomaly detection, an
 
 ### 🌫️ AirWatcher — Air Quality Monitoring (C++)
 A C++ application using MVC architecture and UML design to analyze and visualize sensor data.  
-👉 *C++ • MVC • UML • Data Visualization*[View Project]([https://ton-url-ici](https://github.com/DarkoSancho/AirWatcher)) 
+👉 *C++ • MVC • UML • Data Visualization* [View Project]([https://ton-url-ici](https://github.com/DarkoSancho/AirWatcher)) 
 
 ---
 
