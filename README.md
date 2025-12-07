@@ -59,7 +59,7 @@ Full implementation of a delivery scheduling engine with XML parsing, relational
 ---
 
 ## 🤳 Connect with me
-**LinkedIn:** https://linkedin.com/in/ines-chebbi  
+**LinkedIn:** [https://linkedin.com/in/ines-chebbi  ](https://www.linkedin.com/in/in%C3%A8s-chebbi-15ab53287/)
 **GitHub:** https://github.com/inesnoussa99  
 **Email:** ineschebbi98@gmail.com
 
