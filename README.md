@@ -28,11 +28,16 @@ Node.js + Angular tools for managing student submissions, evaluations, and fair 
 
 ### 🎮 Four in a Row — Prolog Game Engine
 A full Prolog implementation of Connect Four, including board management, win detection, and an automated AI player.  
-👉 *Prolog • Game Logic • AI (Rule-Based)*  
-[View Project](https://github.com/inesnoussa99/four-in-a-row-)
+👉 *Prolog • Game Logic • AI (Rule-Based)*  [View Project](https://github.com/inesnoussa99/four-in-a-row-)
+
 
 ---
 
+🚚 Delivery Management & Routing — Full-Stack Platform
+Full implementation of a delivery scheduling engine with XML parsing, relational data modeling, assignment algorithms, and optimized itinerary structure.
+👉 Python • FastAPI • SQLModel • PostgreSQL • React •  Algorithm * [View Project](https://github.com/inesnoussa99/PLD-AGILE)
+
+---
 ## 🛠 Tech Stack
 **Languages:** Java, Python, C/C++, TypeScript, JavaScript, SQL  
 **Backend:** Node.js  
