@@ -20,16 +20,16 @@ A C++ application using MVC architecture and UML design to analyze and visualize
 
 ---
 
-### 🧩 UI Builder — Angular Drag-and-Drop Interface
-A modular Angular/TypeScript interface allowing users to assemble UI layouts using drag-and-drop components.  
-Includes an automated export pipeline using EJS.  
-👉 *Angular • TypeScript • EJS* [View Project](https://github.com/inesnoussa99/UI-UX-design-)
-
----
-
 ### 🗂 Student–Project Assignment System (Full Stack)
 Node.js + Angular tools for managing student submissions, evaluations, and fair project assignments, with optimized MySQL queries.  
 👉 *Node.js • Angular • SQL* [View Project](https://servif.insa-lyon.fr/PFE)
+
+---
+
+### 🎮 Four in a Row — Prolog Game Engine
+A full Prolog implementation of Connect Four, including board management, win detection, and an automated AI player.  
+👉 *Prolog • Game Logic • AI (Rule-Based)*  
+[View Project](https://github.com/inesnoussa99/four-in-a-row-)
 
 ---
 
