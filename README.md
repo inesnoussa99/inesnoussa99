@@ -16,20 +16,20 @@ Includes multi-source ingestion, NLP-based PII extraction, anomaly detection, an
 
 ### 🌫️ AirWatcher — Air Quality Monitoring (C++)
 A C++ application using MVC architecture and UML design to analyze and visualize sensor data.  
-👉 *C++ • MVC • UML • Data Visualization* [View Project]([https://ton-url-ici](https://github.com/DarkoSancho/AirWatcher)) 
+👉 *C++ • MVC • UML • Data Visualization* [View Project](https://ton-url-ici](https://github.com/DarkoSancho/AirWatcher) 
 
 ---
 
 ### 🧩 UI Builder — Angular Drag-and-Drop Interface
 A modular Angular/TypeScript interface allowing users to assemble UI layouts using drag-and-drop components.  
 Includes an automated export pipeline using EJS.  
-👉 *Angular • TypeScript • EJS* [View Project]([https://github.com/inesnoussa99/UI-UX-design-])
+👉 *Angular • TypeScript • EJS* [View Project](https://github.com/inesnoussa99/UI-UX-design-)
 
 ---
 
 ### 🗂 Student–Project Assignment System (Full Stack)
 Node.js + Angular tools for managing student submissions, evaluations, and fair project assignments, with optimized MySQL queries.  
-👉 *Node.js • Angular • SQL* [View Project]([https://servif.insa-lyon.fr/PFE])
+👉 *Node.js • Angular • SQL* [View Project](https://servif.insa-lyon.fr/PFE)
 
 ---
 
