@@ -33,7 +33,7 @@ A full Prolog implementation of Connect Four, including board management, win de
 
 ---
 
-🚚 Delivery Management & Routing — Full-Stack Platform
+### 🚚 Delivery Management & Routing — Full-Stack Platform 
 Full implementation of a delivery scheduling engine with XML parsing, relational data modeling, assignment algorithms, and optimized itinerary structure.
 👉 Python • FastAPI • SQLModel • PostgreSQL • React •  Algorithm * [View Project](https://github.com/inesnoussa99/PLD-AGILE)
 
